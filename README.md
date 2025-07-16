@@ -2,8 +2,8 @@
 
 <div align="center">
   <strong>🚀 Full-Stack Web Developer | 🤖 AI Enthusiast | 💻 Open Source Contributor</strong><br/>
-  <code>📧 hanafiahmed832@gmail.com</code> • 
-  <code>💬 Discord: ahmed.abdelrazek</code>
+  <img src="https://streak-stats.demolab.com?user=Ahmedabdelrazek1&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"/>
+
 </div>
 
 ---
