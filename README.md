@@ -10,9 +10,6 @@
 </div>
 
 ---
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
-
 ### 🧠 About Me
 
 I'm a Computer Vision and AI enthusiast currently pursuing a B.Sc. in Artificial Intelligence and Data Science at Egypt-Japan University of Science and Technology (E-JUST). I specialize in real-time, full-stack AI systems, having built:
@@ -22,6 +19,14 @@ I'm a Computer Vision and AI enthusiast currently pursuing a B.Sc. in Artificial
 - 🫁 Pneumonia Detection: **CNN**-based chest X-ray classification
 
 With solid skills in **Python**, **TensorFlow**, **PyTorch**, and **OpenCV**, I love solving real-world problems by integrating AI into usable web or desktop systems. Whether it's building, training, or deploying models, I thrive in end-to-end AI development.
+
+---
+### 🔥 GitHub Activity
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Ahmedabdelrazek1&theme=dracula&hide_border=false" height="150" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ahmedabdelrazek1&theme=dracula&no-bg=false&no-frame=false&row=1&column=6" height="150" />
+</div>
 
 ---
 
@@ -65,14 +70,6 @@ With solid skills in **Python**, **TensorFlow**, **PyTorch**, and **OpenCV**, I 
 
 ---
 
-### 🔥 GitHub Activity
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Ahmedabdelrazek1&theme=dracula&hide_border=false" height="150" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Ahmedabdelrazek1&theme=dracula&no-bg=false&no-frame=false&row=1&column=6" height="150" />
-</div>
-
----
 
 ### 🌐 Connect with Me
 
@@ -86,12 +83,4 @@ With solid skills in **Python**, **TensorFlow**, **PyTorch**, and **OpenCV**, I 
   <a href="https://discordapp.com/users/ahmed.abdelrazek" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="35" />
   </a>
-</div>
-
----
-
-<br clear="both" />
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 </div>
