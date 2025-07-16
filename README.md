@@ -1,49 +1,62 @@
 <h1 align="center">Hey 👋 What's Up? I'm Ahmed Abdelrazek</h1>
 
-<h2 align="center">🚀 Full-Stack Web Developer | 🤖 AI Enthusiast | 💻 Open Source Contributor</h2>
+<h2 align="center">🚀 Full-Stack Web Developer | 🤖 AI & Computer Vision Enthusiast | 💻 Open Source Contributor</h2>
 
 <div align="center">
   <code>📧 hanafiahmed832@gmail.com</code> • 
-  <code>💬 Discord: ahmed.abdelrazek</code>
+  <code>💬 Discord: ahmed.abdelrazek</code> • 
+  <a href="https://www.linkedin.com/in/ahmed-abdelrazek1/" target="_blank">🌐 LinkedIn</a> • 
+  <a href="https://github.com/Ahmedabdelrazek1" target="_blank">💼 GitHub</a>
 </div>
 
-<br/>
+---
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
 
+### 🧠 About Me
+
+I'm a Computer Vision and AI enthusiast currently pursuing a B.Sc. in Artificial Intelligence and Data Science at Egypt-Japan University of Science and Technology (E-JUST). I specialize in real-time, full-stack AI systems, having built:
+
+- 🤟 ASL-GPT: a RAG-based sign language interface using **Squeezeformer** and **TFLite**
+- 🖱 Virtual Mouse: gesture control via **MediaPipe**
+- 🫁 Pneumonia Detection: **CNN**-based chest X-ray classification
+
+With solid skills in **Python**, **TensorFlow**, **PyTorch**, and **OpenCV**, I love solving real-world problems by integrating AI into usable web or desktop systems. Whether it's building, training, or deploying models, I thrive in end-to-end AI development.
+
 ---
 
-<h3 align="left">🧠 About Me</h3>
+### 💼 Professional Experience Highlights
 
-- 💡 Passionate about crafting full-stack apps with **React**, **Flask**, and **Django**.
-- 🌐 Experienced in **Azure**, **Docker**, and **Tailwind CSS**.
-- 🔬 Deeply interested in **Machine Learning**, **AI**, and **Deep Learning Frameworks**.
-- 📈 Constantly learning, building, and contributing to meaningful projects.
+- **AI Intern at Huawei** – Built real-world ML systems and deployed intelligent apps.
+- **Instructor at iSchool & DEMI** – Taught 2D game development using Godot for 6th graders.
+- **Freelance AI Specialist** – Delivered and ranked ML solutions aligned with client goals.
+- **IT Administrator at Emaar Misr** – Managed accounts, backups, and system security.
 
 ---
 
-<h3 align="left">🛠️ Languages & Tools</h3>
+### 🛠️ Tech Stack
 
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" />
 </div>
 
 ---
 
-<h3 align="left">📊 GitHub Stats & Languages</h3>
+### 📊 GitHub Stats & Languages
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ahmedabdelrazek1&show_icons=true&count_private=true&theme=dracula&hide_border=false" height="150" />
@@ -52,7 +65,7 @@
 
 ---
 
-<h3 align="center">🔥 GitHub Activity</h3>
+### 🔥 GitHub Activity
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Ahmedabdelrazek1&theme=dracula&hide_border=false" height="150" />
@@ -61,7 +74,7 @@
 
 ---
 
-<h3 align="center">🔗 Connect with Me</h3>
+### 🌐 Connect with Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ahmed-abdelrazek1/" target="_blank">
@@ -73,9 +86,6 @@
   <a href="https://discordapp.com/users/ahmed.abdelrazek" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="35" />
   </a>
-  <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="35" />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&style=for-the-badge" height="35" />
 </div>
 
 ---
